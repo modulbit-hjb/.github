@@ -1,8 +1,15 @@
-# Denní plán pacienta
+<div align="center">
 
-Náš projekt na hackathonu **Hack Jak Brno 2026**, výzva FN Brno (Chirurgická klinika).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-banner-dark.png">
+  <img alt="planno – Co mě dnes čeká: srozumitelně, pohromadě a nahlas." src="assets/readme-banner-light.png" width="100%">
+</picture>
 
-> *Co mě dnes čeká: srozumitelně, pohromadě a nahlas.*
+**planno**: denní plán pacienta. Náš projekt na hackathonu **Hack Jak Brno 2026**, výzva FN Brno (Chirurgická klinika).
+
+</div>
+
+---
 
 ## Problém
 
@@ -38,8 +45,18 @@ Navíc: simulovaný čas (den jde přehrát krok po kroku), přepočet plánu p�
 ## Repozitáře
 
 - [`frontend`](https://github.com/modulbit-hjb/frontend): hlavní repo aplikace
+- [`design`](https://github.com/modulbit-hjb/design): logo, barvy, písmo, bannery
 - [`.plan`](https://github.com/modulbit-hjb/.plan): zadání, prezentace, modeloví pacienti a naše poznámky
 
 ---
 
 Všichni pacienti v podkladech jsou smyšlení. Mentor: MUDr. Vladimír Čan, zadavatel: Ing. Eva Hesková (FN Brno).
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/planno-mark-dark-128.png">
+  <img alt="planno" src="assets/planno-mark-color-128.png" width="56">
+</picture>
+
+</div>
