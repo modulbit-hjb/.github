@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-banner-dark.png">
-  <img alt="planno – Co mě dnes čeká: srozumitelně, pohromadě a nahlas." src="assets/readme-banner-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="planno: plán dne pro pacienta, srozumitelně a nahlas. Dva tablety s aplikací: Domů a Celý plán." src="assets/banner-light.png" width="100%">
 </picture>
 
 **planno**: denní plán pacienta. Náš projekt na hackathonu **Hack Jak Brno 2026**, výzva FN Brno (Chirurgická klinika).
